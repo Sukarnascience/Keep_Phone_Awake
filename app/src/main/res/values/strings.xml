@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Keep Phone Awake</string>
+    <string name="hello">Hello,</string>
+    <string name="i_will_help_you_to_keep">I will help you to keep</string>
+    <string name="your_phone_screen_on">your phone screen ON</string>
+    <string name="made_by_sukarna_jana">Made By Sukarna Jana</string>
+    <string name="screen_is">Screen is</string>
+    <string name="on_from">ON from</string>
+    <string name="_00_00_00">00:00:00</string>
+</resources>
